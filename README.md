@@ -11,6 +11,12 @@ All the needed components which are reusable are located under src/components
 # Utils
 Any javascript fuctionality which do not fall under above conditions will located at src/Utils
 
+# Dependencies
+1. react-router-dom
+2. @mui/material
+3. @emotion/react
+4. @emotion/styled
+
 
 
 # Assignment Description
@@ -25,8 +31,8 @@ You must build a single-page application that fetches data from a public API and
 
 # Requirements
 •	Use React.js to build the application.
-•	Fetch data from a public API (e.g., JSONPlaceholder, OpenWeatherMap, or any other public API).
-•	Implement the UI using Material-UI components.
+•	Fetch data from a public API (e.g., JSONPlaceholder, OpenWeatherMap, or any other public API).  //Using JSONPlaceholder for users
+•	Implement the UI using Material-UI components.  //install material UI to use it
 •	Ensure the application is responsive and works well on different screen sizes.
 •	Use modern JavaScript (ES6+) features.
 •	Write clean, maintainable code with proper comments.
